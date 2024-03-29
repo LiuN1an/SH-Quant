@@ -12,5 +12,4 @@ Event-Drived intraday futures quantitative system which can be used offline(译:
 - 日志: 在策略中提供日志打印能力, 可以最大限度的查看策略内部运行时的状态
 
 ## TODO
-- 品种时间段兼容: 系统尚未提供一套完整的针对不同时间段交易品种的兼容方案
-- 
+- 品种时间段兼容: 系统尚未提供一套完整的针对不同时间段交易品种的兼容方案，可以将时间处理代码面向对象化
